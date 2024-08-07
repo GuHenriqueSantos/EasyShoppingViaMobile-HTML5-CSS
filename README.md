@@ -5,11 +5,12 @@
   <img width=20% height=auto src="https://raw.githubusercontent.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/a85ebb66af8770ce0a0781e7a8ad4c4976b3f180/assets/Woman-CellPhone.svg" />
 </div>
 
+<br>
+
 <h1>
 <!--- Titulo do projeto -->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&height=65&weight=500&size=45&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=1000&lines=🛒+Easy+Shopping+Via+Mobile)](https://git.io/typing-svg)
-
 </h1>
 
 <!--- Badges de "Bem vindo!" e "Feito por..." -->
@@ -36,7 +37,7 @@
 
 <!--- Link do projeto -->
 <p align="center">
-     <a href="">📱 Viste o Projeto</a>
+     <a href="https://guhenriquesantos.github.io/EasyShoppingViaMobile-HTML5-CSS/">📱 Viste o Projeto</a>
 </p>
 
 <br>
@@ -44,18 +45,21 @@
 <!--- Imagens do projeto -->
 <h2 id="layout">🎨 Layout</h2>
 <p align="center">
-    <img src="" alt="Imagem-Do-Porjeto" width="100%">
+    <img src="https://github.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/blob/main/assets/README-EasyShopping.png?raw=true" alt="Imagem-Do-Projeto" width="70%">
 </p>
 
 <br>
 
 <!--- Tecnologias utilizadas -->
 <h2 width="3" id="tec">💻 Tecnologias utilizadas</h2>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img height="auto" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 <img width="3">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="auto" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
 <br>
 <br>
+
 Este projeto foi desenvolvido como parte das aulas de HTML, CSS, Git e GitHub do curso DevClub. Utilizamos as seguintes tecnologias:
 
 - HTML e HTML5: Estruturação do conteúdo da página.
