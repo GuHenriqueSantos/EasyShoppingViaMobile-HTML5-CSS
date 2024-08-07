@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=54547d">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=54547d">
 
 <!--- Logo Easy Shopping -->
 <div align=center>
-  <img width=20% height=auto src="https://raw.githubusercontent.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/a85ebb66af8770ce0a0781e7a8ad4c4976b3f180/assets/Woman-CellPhone.svg" />
+  <img width=30% height=auto src="https://raw.githubusercontent.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/a85ebb66af8770ce0a0781e7a8ad4c4976b3f180/assets/Woman-CellPhone.svg" />
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 <!--- Imagens do projeto -->
 <h2 id="layout">🎨 Layout</h2>
 <p align="center">
-    <img src="https://github.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/blob/main/assets/README-EasyShopping.png?raw=true" alt="Imagem-Do-Projeto" width="70%">
+    <img src="https://github.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/blob/main/assets/README-EasyShopping.png?raw=true" alt="Imagem-Do-Projeto" width="80%">
 </p>
 
 <br>
@@ -128,4 +128,4 @@ Agradecimentos especiais ao Rodolfo Mori, instrutor do DevClub, por seu ensino e
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=54547d&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=54547d&section=footer">
